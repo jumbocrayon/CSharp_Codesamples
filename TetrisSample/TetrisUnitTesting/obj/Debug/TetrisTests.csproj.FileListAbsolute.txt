@@ -1,0 +1,9 @@
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\obj\Debug\TetrisTests.csprojResolveAssemblyReference.cache
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\bin\Debug\InterviewTests.dll
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\bin\Debug\InterviewTests.pdb
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\bin\Debug\TetrisTest.exe
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\bin\Debug\TetrisTest.pdb
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\obj\Debug\InterviewTests.dll
+C:\Users\Jess\Documents\Projects\InterviewPrep\TetrisUnitTesting\obj\Debug\InterviewTests.pdb
